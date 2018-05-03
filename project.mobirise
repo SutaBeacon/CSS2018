@@ -58,7 +58,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"http://wiee.tongji.edu.cn/index.htm\" target=\"_blank\">WIEE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">REGISTER CSS</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"http://wiee.tongji.edu.cn/index.htm\" target=\"_blank\">WIEE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"http://hk.mikecrm.com/l27Kf1C\" target=\"_blank\">REGISTER CSS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -276,7 +276,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018,<a href=\"http://tjdi.tongji.edu.cn/\" target=\"_blank\" class=\"text-gray\"> College of Design and Innovation</a>, <a href=\"http://www.tongji.edu.cn/\" class=\"text-gray\">Tongji University.</a>",
+          "text": "Copyright (c) 2018,<a href=\"http://tjdi.tongji.edu.cn/\" target=\"_blank\" class=\"text-gray\"> College of Design and Innovation</a>, <a href=\"https://www.tongji.edu.cn\" class=\"text-gray\" target=\"_blank\">Tongji University.</a>",
           "_tags": [
             "Theme"
           ],
@@ -284,7 +284,7 @@
           "_anchor": "footer1-e",
           "_styles": {
             "P": {
-              "text-align": "right",
+              "text-align": "center",
               "font-size": "12px",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
