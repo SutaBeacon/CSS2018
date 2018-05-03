@@ -1,7 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
 
 
 
@@ -54,18 +52,17 @@
   font-size: 14px;
   font-family: 'Lato', sans-serif;
 }
-#msg-box2-d .mbr-header .mbr-header__text {
-  color: #252525;
-  text-align: left;
-  font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
-}
-#msg-box2-d .mbr-article {
-  color: #252525;
-}
-#msg-box2-d .mbr-header .mbr-header__text SPAN {
-  font-family: 'Lato', sans-serif;
-}
 #footer1-e P {
   text-align: right;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#msg-box3-g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-g .mbr-article P {
+  text-align: center;
 }

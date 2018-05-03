@@ -12,7 +12,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.6.6"
   },
   "pages": {
@@ -93,8 +93,8 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/invite-sh-18-2000x1161.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/css1-2000x1161.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -105,7 +105,7 @@
                 "overlay": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/0000014-2000x1125.png",
+                "image": "@PROJECT_PATH@/assets/images/css3-2000x1125.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -117,8 +117,8 @@
                 "overlay": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/0000027-2000x1125.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/css2-2000x1125.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -186,7 +186,7 @@
             "paddingBottom": 3,
             "noGutter": true,
             "showText": true,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#4c6972",
             "images": [
               {
@@ -264,52 +264,6 @@
           }
         },
         {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525",
-              "text-align": "left",
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            },
-            ".mbr-header .mbr-header__text SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: normal;\">Guests are welcome to attend the World Innovation and Entrepreneurship Expo on May 20-23.  Registration is required.</span>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.huodongxing.com/event/9436572717200?td=1512712863586\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register WIEE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-d"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -322,7 +276,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 WIEE.",
+          "text": "Copyright (c) 2018,<a href=\"http://tjdi.tongji.edu.cn/\" target=\"_blank\" class=\"text-gray\"> College of Design and Innovation</a>, <a href=\"http://www.tongji.edu.cn/\" class=\"text-gray\">Tongji University.</a>",
           "_tags": [
             "Theme"
           ],
@@ -330,9 +284,56 @@
           "_anchor": "footer1-e",
           "_styles": {
             "P": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Welcome to WIEE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Guests are welcome to attend the World Innovation and Entrepreneurship Expo on May 20-23. Registration is required.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.huodongxing.com/event/9436572717200?td=1512712863586\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resigiter WIEE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-g"
         }
       ]
     }
