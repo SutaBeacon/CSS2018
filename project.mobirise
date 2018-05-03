@@ -1,0 +1,341 @@
+{
+  "settings": {
+    "name": "Site-03-30_1516",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#777777"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.6",
+    "uniqCompNum": 17,
+    "versionPublish": "4.6.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"http://wiee.tongji.edu.cn/index.htm\" target=\"_blank\">WIEE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"http://hk.mikecrm.com/l27Kf1C\" target=\"_blank\">REGISTER CSS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"http://wiee.tongji.edu.cn/index.htm\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CITY SCIENCE SUMMIT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/css1-2000x1161.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "City Science Summit<br>Shanghai 2018",
+                "contentAlign": "left",
+                "text": "City Science Summit Shanghai 2018, in participation with Tongji University and the MIT Media Lab's City Science group, invites you to attend this one-day event focused on global service innovations. Be part of an international cohort of mayors, technical experts, high-level CEOs, and academics as we discuss and model our cities' latest visualization tools. Join us as we discuss service platforms, co-creative city structures, and our future beyond the smart city.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/css3-2000x1125.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "",
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/css2-2000x1125.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-a",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-size": "13px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "left",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Schedule<br><br>",
+          "meta": "<b><span style=\"font-style: normal;\">Saturday, May 20<br>WIEE (World Innovation and Entrepreneurship Expo)</span></b><br><br><span style=\"font-style: normal;\">8:00 to 5:00 | Opening Ceremony <br></span><br><span style=\"font-style: normal;\">Tongji University is working with the Ministry of Education and Shanghai City Government to present WIEE. WIEE is a year-long event with the following goals: promote innovation, promote science and education, accelerate the construction of a science and innovation center, build cooperation, and encourage entrepreneurship.  Guests of the City Science Summit will attend the Opening Ceremony, which includes the Future Trends forum and the release of Declaration of World Innovation and Entrepreneurship (Shanghai Declaration).</span><br><br><span style=\"font-style: normal;\"><br><b>Sunday, May 20 <br>City Science Summit Shanghai<br></b></span><br><span style=\"font-style: normal;\">1:00 | Registration<br>1:00 to 3:00 | Welcome and Keynote Speakers<br><br><b>Themes:<br></b>Insight<br>Prediction<br>Transformation<br>Decision Making<br>Governance<br><br>3: 00 - 3:15 | Break<br>3:15 to 6:00 | Case Studies  and Theme presentations continue<br>6:00 to 8:00 | Rotations<br>Breakout Sessions and Demos<br>8:00 - 9:00 | Reception and closing remarks</span><span style=\"font-style: normal;\"><br></span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b",
+          "_styles": {
+            "P": {
+              "color": "#777777",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "color": "#000000",
+              "font-size": "14px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": false,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800.png",
+                "alt": "",
+                "caption": "LOU Yongqi<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800.png",
+                "alt": "",
+                "caption": "LOU Yongqi",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
+                "alt": "",
+                "caption": "LOU Yongqi",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800.png",
+                "alt": "",
+                "caption": "LOU Yongqi",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800.png",
+                "alt": "",
+                "caption": "LOU Yongqi",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
+                "alt": "",
+                "caption": "LOU Yongqi",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800.png",
+                "alt": "",
+                "caption": "LOU Yongqi",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800-800x800.png",
+                "alt": "",
+                "caption": "LOU Yongqi",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-f",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "14px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018,<a href=\"http://tjdi.tongji.edu.cn/\" target=\"_blank\" class=\"text-gray\"> College of Design and Innovation</a>, <a href=\"https://www.tongji.edu.cn\" class=\"text-gray\" target=\"_blank\">Tongji University.</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-e",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "12px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Welcome to WIEE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Guests are welcome to attend the World Innovation and Entrepreneurship Expo on May 20-23. Registration is required.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.huodongxing.com/event/9436572717200?td=1512712863586\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resigiter WIEE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-g"
+        }
+      ]
+    }
+  }
+}

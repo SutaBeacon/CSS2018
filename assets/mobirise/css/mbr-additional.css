@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+
+
+
+
+
+
+#menu-9 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-9.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#menu-9 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-9 .mbr-brand__name a {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-9 .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-a H1 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-a P {
+  font-size: 13px;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  color: #000000;
+}
+#header3-b P {
+  color: #777777;
+  font-size: 16px;
+}
+#header3-b SPAN {
+  color: #000000;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+}
+#header3-b H3 {
+  font-family: 'Lato', sans-serif;
+}
+#gallery1-f SMALL {
+  text-align: center;
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+}
+#footer1-e P {
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#msg-box3-g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-g .mbr-article P {
+  text-align: center;
+}
