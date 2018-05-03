@@ -89,12 +89,12 @@
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/css1-2000x1161.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -118,7 +118,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/css2-2000x1125.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -190,57 +190,57 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/-1611x1611.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/lou-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lou-1611x1611-800x800.png",
                 "alt": "",
                 "caption": "LOU Yongqi<br>",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/lou-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lou-1611x1611-800x800.png",
                 "alt": "",
                 "caption": "LOU Yongqi",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/lou-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lou-1611x1611-800x800.png",
                 "alt": "",
                 "caption": "LOU Yongqi",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/lou-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lou-1611x1611-800x800.png",
                 "alt": "",
                 "caption": "LOU Yongqi",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/lou-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lou-1611x1611-800x800.png",
                 "alt": "",
                 "caption": "LOU Yongqi",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/lou-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lou-1611x1611-800x800.png",
                 "alt": "",
                 "caption": "LOU Yongqi",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/lou-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lou-1611x1611-800x800.png",
                 "alt": "",
                 "caption": "LOU Yongqi",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800.png",
-                "thumb": "@PROJECT_PATH@/assets/images/1611x1611-800x800-800x800-800x800-800x800-800x800-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/lou-1611x1611.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lou-1611x1611-800x800.png",
                 "alt": "",
                 "caption": "LOU Yongqi",
                 "active": true
@@ -328,7 +328,7 @@
           "title": "Welcome to WIEE",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Guests are welcome to attend the World Innovation and Entrepreneurship Expo on May 20-23. Registration is required.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.huodongxing.com/event/9436572717200?td=1512712863586\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resigiter WIEE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.huodongxing.com/event/9436572717200?td=1512712863586\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register WIEE</a>",
           "_tags": [
             "Theme"
           ],
